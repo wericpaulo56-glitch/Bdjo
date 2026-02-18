@@ -4,7 +4,7 @@
 ######### TV ABERTA #################
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
-http://128.199.34.33/loadbalance/bobonordeste/chunks.m3u8?pxAuth=VaOoaJFM1EZJGDZnCiFRA4OGxzz1wOHs
+https://cdnpr.hplay.tv/auth/_-sT0NN2AgQv1-RZ8D1jqa6JMHmLHABwRv8RQbbWUKLOoHI6Y4h15n6LwxFW-7lnJLEYs10U-PAN4N1k08HgecJOdO9IGBsHqUPW1hY8_3P4L9wgfIabWtfXJ3HxsZe-Xy8M_-0iImnPfp0xo4IqfFBUF113rsJS54qjFCxftooJgQ41CSgb4NOqIqj6CLDrUJVO1uxKueTnbRiNL8ooznCKWd5NdkwkVGmRkDkaKfHT3NFvUH3ZUSfUUCj_-3iJTgkcjeXIUOjcL6BG45MuyayI7nUhGSWK199H-FQEMV8_Qwfe6JcqxZscIJ8Y5hgpjhx1y_9gKsShsKHOeogIqArmRBX7VmQQkhBldgH9JOyMmgFAVBRWYmiJHExB63t3lJ50MvzFGtGuhyTvPoWGvElTAmoPD3Dx6zMkomuZTiK9uFjLkk9v8yA5bbFgBkIxNQAgdY8sIeccLBTesWg8vN95lfhOAQ39_tbK0_Pt4mU-FXYrfnPDM-n7An-WS9JXcBtly6iar1UW5xEwhNyOigUJIdKmqEut4yNttx0HWvM6ohE4wLL2tFMd-VrGj_OIhmWG5KhOzabqHBWcSHlEgnQk4gbrn3Lmz-zlQUtpuvI
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD E*" tvg-logo="http://img.elitehdbr.com/logos/globo.png" group-title="CANAIS ABERTOS",GLOBO RJ HD E*
 http://159.203.60.223/loadbalance/bobosp/chunks.m3u8?pxAuth=YHgxHTeBKw0FBuLHOkWe3xvHTOdMkw7F
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 24H HD (apenas Brasil)" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/a-fazenda/logo-16ea21a6ded94688134699bf70b638c6.png" group-title="CANAIS ABERTOS",A FAZENDA 24H HD (apenas Brasil)
