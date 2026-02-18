@@ -19,7 +19,7 @@ http://185.181.100.218:8081/live/106/chunks.m3u8?nimblesessionid=3997830&wmsAuth
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD ***" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY HD ***
 http://165.227.100.253/investigacaodiscovery/tracks-v1a1/index.m3u8?pxAuth=4IfTPs5cEi55teqs677BKRCFVyHmIcaP
 #EXTINF:-1 tvg-id="cartoon network antigo" tvg-name="cartoon network antigo**" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD **
-https://ia902900.us.archive.org/12/items/lv_0_20260217181532/lv_0_20260217181532.mp4
+http://ia902900.us.archive.org/12/items/lv_0_20260217181532/lv_0_20260217181532.mp4
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD ***" tvg-logo="http://img.elitehdbr.com/logos/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD ***
 http://185.181.100.218:8081/live/30/chunks.m3u8?nimblesessionid=3998222&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE3IDE6MzU6MjIgQU0maGFzaF92YWx1ZT1JUGNTNGs2WFlWYzVpdm9DUkF3VW93PT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD **" tvg-logo="http://img.elitehdbr.com/logos/discoverchannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD **
